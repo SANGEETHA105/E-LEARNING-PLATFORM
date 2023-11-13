@@ -1,0 +1,49 @@
+body
+{
+    background-color: rgb(3, 3, 72);
+    font-family: Arial, Helvetica, sans-serif;
+}  
+.icon .fa
+{
+    font-size: 109px;
+    margin-top: -75px;
+    margin-left: 380px;
+}  
+.container form
+{
+    margin-left: 10%;
+    margin-top:40px ;
+    padding: 80px;
+    background-color:white;
+    width: 70%;
+    height: 100%;
+    border-radius: 100px;
+}
+.container form label
+{
+    font-weight:bolder; 
+}
+.container form input
+{
+    border: none;
+    border-bottom: 1px solid rgb(169, 169, 220);
+    background: transparent;
+    padding: 15px;
+    padding-left: 15px;
+    outline: none;
+    font-weight: lighter;
+    font-size: 16px;
+    text-decoration: none;
+}
+.container form button
+{
+    background-color: darkblue;
+    padding: 13px 60px;
+    border-radius: 50px;
+    color: white;
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 15px;
+    border: none;
+    display: flex;
+}
